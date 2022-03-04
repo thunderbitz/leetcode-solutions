@@ -1,6 +1,8 @@
 # LeetCode Solutions
 Here is a list of LeetCode problems solutions in C++, Java, Python.  I will keep updating solutions to this list. 
 
+Please ⭐ the repo if you found it useful.
+
 👉👉Checkout <a href=https://thunderbitz.com/leetcode-solutions/>LeetCode Solutions</a>👈👈
 
 All Solutions Will be updated soon. Keep Tracking. ✅✅
